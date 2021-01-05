@@ -19,7 +19,9 @@ class Example(QWidget):
         #vbox.addStretch(1)
         #vbox.addLayout(hbox)
 
+
         self.setLayout(hbox)
+
 
         self.setGeometry(300, 300, 500, 500)
         self.setWindowTitle('Absolute')

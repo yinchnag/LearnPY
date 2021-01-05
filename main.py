@@ -1,7 +1,7 @@
 # TODO: 学习PY
 def print_hi(name):
 
-    val = 2
+    val = 10
     if val == 1:
         print(f'val: {val}')
     elif val > 10:
